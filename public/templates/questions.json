@@ -1,0 +1,35 @@
+[
+  {
+    "id": "LOCAL-SAMPLE-001",
+    "subject": "전기응용 및 공사재료",
+    "topic": "조명·평균 조도",
+    "question": "면적 5 m²인 작업면에 광속 100 lm이 균일하게 입사한다. 평균 조도는? (손실은 이미 반영된 입사 광속이다.) [등록 양식 예제]",
+    "choices": [
+      "40 lx",
+      "60 lx",
+      "80 lx",
+      "20 lx"
+    ],
+    "answer": 4,
+    "explanation": "평균 조도는 작업면에 입사한 총 광속을 면적으로 나눈 값이다. E=Φ/A=100/5=20 lx. 광원 자체의 광속과 입사 광속을 혼동하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "pending",
+    "reviewNote": "실제 사용 전 출처·권한·정답 확인 필요",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F1",
+    "calculation": {
+      "kind": "illuminance",
+      "values": [
+        100,
+        5
+      ],
+      "result": 20,
+      "unit": "lx"
+    }
+  }
+]

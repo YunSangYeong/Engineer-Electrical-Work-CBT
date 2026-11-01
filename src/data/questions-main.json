@@ -1,0 +1,3302 @@
+[
+  {
+    "id": "EWC-1-001",
+    "subject": "전기응용 및 공사재료",
+    "topic": "조명·평균 조도",
+    "question": "면적 5 m²인 작업면에 광속 100 lm이 균일하게 입사한다. 평균 조도는? (손실은 이미 반영된 입사 광속이다.)",
+    "choices": [
+      "40 lx",
+      "60 lx",
+      "80 lx",
+      "20 lx"
+    ],
+    "answer": 4,
+    "explanation": "평균 조도는 작업면에 입사한 총 광속을 면적으로 나눈 값이다. E=Φ/A=100/5=20 lx. 광원 자체의 광속과 입사 광속을 혼동하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F1",
+    "calculation": {
+      "kind": "illuminance",
+      "values": [
+        100,
+        5
+      ],
+      "result": 20,
+      "unit": "lx"
+    }
+  },
+  {
+    "id": "EWC-1-002",
+    "subject": "전기응용 및 공사재료",
+    "topic": "조명·평균 조도",
+    "question": "면적 5 m²인 작업면에 광속 200 lm이 균일하게 입사한다. 평균 조도는? (손실은 이미 반영된 입사 광속이다.)",
+    "choices": [
+      "120 lx",
+      "160 lx",
+      "40 lx",
+      "80 lx"
+    ],
+    "answer": 3,
+    "explanation": "평균 조도는 작업면에 입사한 총 광속을 면적으로 나눈 값이다. E=Φ/A=200/5=40 lx. 광원 자체의 광속과 입사 광속을 혼동하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F1",
+    "calculation": {
+      "kind": "illuminance",
+      "values": [
+        200,
+        5
+      ],
+      "result": 40,
+      "unit": "lx"
+    }
+  },
+  {
+    "id": "EWC-1-003",
+    "subject": "전기응용 및 공사재료",
+    "topic": "조명·평균 조도",
+    "question": "면적 5 m²인 작업면에 광속 300 lm이 균일하게 입사한다. 평균 조도는? (손실은 이미 반영된 입사 광속이다.)",
+    "choices": [
+      "240 lx",
+      "60 lx",
+      "120 lx",
+      "180 lx"
+    ],
+    "answer": 2,
+    "explanation": "평균 조도는 작업면에 입사한 총 광속을 면적으로 나눈 값이다. E=Φ/A=300/5=60 lx. 광원 자체의 광속과 입사 광속을 혼동하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F1",
+    "calculation": {
+      "kind": "illuminance",
+      "values": [
+        300,
+        5
+      ],
+      "result": 60,
+      "unit": "lx"
+    }
+  },
+  {
+    "id": "EWC-1-004",
+    "subject": "전기응용 및 공사재료",
+    "topic": "조명·평균 조도",
+    "question": "면적 5 m²인 작업면에 광속 400 lm이 균일하게 입사한다. 평균 조도는? (손실은 이미 반영된 입사 광속이다.)",
+    "choices": [
+      "80 lx",
+      "160 lx",
+      "240 lx",
+      "320 lx"
+    ],
+    "answer": 1,
+    "explanation": "평균 조도는 작업면에 입사한 총 광속을 면적으로 나눈 값이다. E=Φ/A=400/5=80 lx. 광원 자체의 광속과 입사 광속을 혼동하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F1",
+    "calculation": {
+      "kind": "illuminance",
+      "values": [
+        400,
+        5
+      ],
+      "result": 80,
+      "unit": "lx"
+    }
+  },
+  {
+    "id": "EWC-1-005",
+    "subject": "전기응용 및 공사재료",
+    "topic": "조명·평균 조도",
+    "question": "면적 5 m²인 작업면에 광속 500 lm이 균일하게 입사한다. 평균 조도는? (손실은 이미 반영된 입사 광속이다.)",
+    "choices": [
+      "200 lx",
+      "300 lx",
+      "400 lx",
+      "100 lx"
+    ],
+    "answer": 4,
+    "explanation": "평균 조도는 작업면에 입사한 총 광속을 면적으로 나눈 값이다. E=Φ/A=500/5=100 lx. 광원 자체의 광속과 입사 광속을 혼동하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F1",
+    "calculation": {
+      "kind": "illuminance",
+      "values": [
+        500,
+        5
+      ],
+      "result": 100,
+      "unit": "lx"
+    }
+  },
+  {
+    "id": "EWC-1-006",
+    "subject": "전기응용 및 공사재료",
+    "topic": "조명·평균 조도",
+    "question": "면적 5 m²인 작업면에 광속 600 lm이 균일하게 입사한다. 평균 조도는? (손실은 이미 반영된 입사 광속이다.)",
+    "choices": [
+      "360 lx",
+      "480 lx",
+      "120 lx",
+      "240 lx"
+    ],
+    "answer": 3,
+    "explanation": "평균 조도는 작업면에 입사한 총 광속을 면적으로 나눈 값이다. E=Φ/A=600/5=120 lx. 광원 자체의 광속과 입사 광속을 혼동하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F1",
+    "calculation": {
+      "kind": "illuminance",
+      "values": [
+        600,
+        5
+      ],
+      "result": 120,
+      "unit": "lx"
+    }
+  },
+  {
+    "id": "EWC-1-007",
+    "subject": "전기응용 및 공사재료",
+    "topic": "조명·평균 조도",
+    "question": "면적 5 m²인 작업면에 광속 700 lm이 균일하게 입사한다. 평균 조도는? (손실은 이미 반영된 입사 광속이다.)",
+    "choices": [
+      "560 lx",
+      "140 lx",
+      "280 lx",
+      "420 lx"
+    ],
+    "answer": 2,
+    "explanation": "평균 조도는 작업면에 입사한 총 광속을 면적으로 나눈 값이다. E=Φ/A=700/5=140 lx. 광원 자체의 광속과 입사 광속을 혼동하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F1",
+    "calculation": {
+      "kind": "illuminance",
+      "values": [
+        700,
+        5
+      ],
+      "result": 140,
+      "unit": "lx"
+    }
+  },
+  {
+    "id": "EWC-1-008",
+    "subject": "전기응용 및 공사재료",
+    "topic": "조명·평균 조도",
+    "question": "면적 5 m²인 작업면에 광속 800 lm이 균일하게 입사한다. 평균 조도는? (손실은 이미 반영된 입사 광속이다.)",
+    "choices": [
+      "160 lx",
+      "320 lx",
+      "480 lx",
+      "640 lx"
+    ],
+    "answer": 1,
+    "explanation": "평균 조도는 작업면에 입사한 총 광속을 면적으로 나눈 값이다. E=Φ/A=800/5=160 lx. 광원 자체의 광속과 입사 광속을 혼동하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F1",
+    "calculation": {
+      "kind": "illuminance",
+      "values": [
+        800,
+        5
+      ],
+      "result": 160,
+      "unit": "lx"
+    }
+  },
+  {
+    "id": "EWC-1-009",
+    "subject": "전기응용 및 공사재료",
+    "topic": "조명·평균 조도",
+    "question": "면적 5 m²인 작업면에 광속 900 lm이 균일하게 입사한다. 평균 조도는? (손실은 이미 반영된 입사 광속이다.)",
+    "choices": [
+      "360 lx",
+      "540 lx",
+      "720 lx",
+      "180 lx"
+    ],
+    "answer": 4,
+    "explanation": "평균 조도는 작업면에 입사한 총 광속을 면적으로 나눈 값이다. E=Φ/A=900/5=180 lx. 광원 자체의 광속과 입사 광속을 혼동하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F1",
+    "calculation": {
+      "kind": "illuminance",
+      "values": [
+        900,
+        5
+      ],
+      "result": 180,
+      "unit": "lx"
+    }
+  },
+  {
+    "id": "EWC-1-010",
+    "subject": "전기응용 및 공사재료",
+    "topic": "조명·평균 조도",
+    "question": "면적 5 m²인 작업면에 광속 1000 lm이 균일하게 입사한다. 평균 조도는? (손실은 이미 반영된 입사 광속이다.)",
+    "choices": [
+      "600 lx",
+      "800 lx",
+      "200 lx",
+      "400 lx"
+    ],
+    "answer": 3,
+    "explanation": "평균 조도는 작업면에 입사한 총 광속을 면적으로 나눈 값이다. E=Φ/A=1000/5=200 lx. 광원 자체의 광속과 입사 광속을 혼동하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F1",
+    "calculation": {
+      "kind": "illuminance",
+      "values": [
+        1000,
+        5
+      ],
+      "result": 200,
+      "unit": "lx"
+    }
+  },
+  {
+    "id": "EWC-1-011",
+    "subject": "전기응용 및 공사재료",
+    "topic": "조명·평균 조도",
+    "question": "면적 5 m²인 작업면에 광속 1100 lm이 균일하게 입사한다. 평균 조도는? (손실은 이미 반영된 입사 광속이다.)",
+    "choices": [
+      "880 lx",
+      "220 lx",
+      "440 lx",
+      "660 lx"
+    ],
+    "answer": 2,
+    "explanation": "평균 조도는 작업면에 입사한 총 광속을 면적으로 나눈 값이다. E=Φ/A=1100/5=220 lx. 광원 자체의 광속과 입사 광속을 혼동하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F1",
+    "calculation": {
+      "kind": "illuminance",
+      "values": [
+        1100,
+        5
+      ],
+      "result": 220,
+      "unit": "lx"
+    }
+  },
+  {
+    "id": "EWC-1-012",
+    "subject": "전기응용 및 공사재료",
+    "topic": "조명·평균 조도",
+    "question": "면적 5 m²인 작업면에 광속 1200 lm이 균일하게 입사한다. 평균 조도는? (손실은 이미 반영된 입사 광속이다.)",
+    "choices": [
+      "240 lx",
+      "480 lx",
+      "720 lx",
+      "960 lx"
+    ],
+    "answer": 1,
+    "explanation": "평균 조도는 작업면에 입사한 총 광속을 면적으로 나눈 값이다. E=Φ/A=1200/5=240 lx. 광원 자체의 광속과 입사 광속을 혼동하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F1",
+    "calculation": {
+      "kind": "illuminance",
+      "values": [
+        1200,
+        5
+      ],
+      "result": 240,
+      "unit": "lx"
+    }
+  },
+  {
+    "id": "EWC-1-013",
+    "subject": "전기응용 및 공사재료",
+    "topic": "조명·평균 조도",
+    "question": "면적 5 m²인 작업면에 광속 1300 lm이 균일하게 입사한다. 평균 조도는? (손실은 이미 반영된 입사 광속이다.)",
+    "choices": [
+      "520 lx",
+      "780 lx",
+      "1040 lx",
+      "260 lx"
+    ],
+    "answer": 4,
+    "explanation": "평균 조도는 작업면에 입사한 총 광속을 면적으로 나눈 값이다. E=Φ/A=1300/5=260 lx. 광원 자체의 광속과 입사 광속을 혼동하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F1",
+    "calculation": {
+      "kind": "illuminance",
+      "values": [
+        1300,
+        5
+      ],
+      "result": 260,
+      "unit": "lx"
+    }
+  },
+  {
+    "id": "EWC-1-014",
+    "subject": "전기응용 및 공사재료",
+    "topic": "조명·평균 조도",
+    "question": "면적 5 m²인 작업면에 광속 1400 lm이 균일하게 입사한다. 평균 조도는? (손실은 이미 반영된 입사 광속이다.)",
+    "choices": [
+      "840 lx",
+      "1120 lx",
+      "280 lx",
+      "560 lx"
+    ],
+    "answer": 3,
+    "explanation": "평균 조도는 작업면에 입사한 총 광속을 면적으로 나눈 값이다. E=Φ/A=1400/5=280 lx. 광원 자체의 광속과 입사 광속을 혼동하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F1",
+    "calculation": {
+      "kind": "illuminance",
+      "values": [
+        1400,
+        5
+      ],
+      "result": 280,
+      "unit": "lx"
+    }
+  },
+  {
+    "id": "EWC-1-015",
+    "subject": "전기응용 및 공사재료",
+    "topic": "조명·평균 조도",
+    "question": "면적 5 m²인 작업면에 광속 1500 lm이 균일하게 입사한다. 평균 조도는? (손실은 이미 반영된 입사 광속이다.)",
+    "choices": [
+      "1200 lx",
+      "300 lx",
+      "600 lx",
+      "900 lx"
+    ],
+    "answer": 2,
+    "explanation": "평균 조도는 작업면에 입사한 총 광속을 면적으로 나눈 값이다. E=Φ/A=1500/5=300 lx. 광원 자체의 광속과 입사 광속을 혼동하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F1",
+    "calculation": {
+      "kind": "illuminance",
+      "values": [
+        1500,
+        5
+      ],
+      "result": 300,
+      "unit": "lx"
+    }
+  },
+  {
+    "id": "EWC-1-016",
+    "subject": "전기응용 및 공사재료",
+    "topic": "조명·평균 조도",
+    "question": "면적 5 m²인 작업면에 광속 1600 lm이 균일하게 입사한다. 평균 조도는? (손실은 이미 반영된 입사 광속이다.)",
+    "choices": [
+      "320 lx",
+      "640 lx",
+      "960 lx",
+      "1280 lx"
+    ],
+    "answer": 1,
+    "explanation": "평균 조도는 작업면에 입사한 총 광속을 면적으로 나눈 값이다. E=Φ/A=1600/5=320 lx. 광원 자체의 광속과 입사 광속을 혼동하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F1",
+    "calculation": {
+      "kind": "illuminance",
+      "values": [
+        1600,
+        5
+      ],
+      "result": 320,
+      "unit": "lx"
+    }
+  },
+  {
+    "id": "EWC-1-017",
+    "subject": "전기응용 및 공사재료",
+    "topic": "조명·평균 조도",
+    "question": "면적 5 m²인 작업면에 광속 1700 lm이 균일하게 입사한다. 평균 조도는? (손실은 이미 반영된 입사 광속이다.)",
+    "choices": [
+      "680 lx",
+      "1020 lx",
+      "1360 lx",
+      "340 lx"
+    ],
+    "answer": 4,
+    "explanation": "평균 조도는 작업면에 입사한 총 광속을 면적으로 나눈 값이다. E=Φ/A=1700/5=340 lx. 광원 자체의 광속과 입사 광속을 혼동하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F1",
+    "calculation": {
+      "kind": "illuminance",
+      "values": [
+        1700,
+        5
+      ],
+      "result": 340,
+      "unit": "lx"
+    }
+  },
+  {
+    "id": "EWC-1-018",
+    "subject": "전기응용 및 공사재료",
+    "topic": "조명·평균 조도",
+    "question": "면적 5 m²인 작업면에 광속 1800 lm이 균일하게 입사한다. 평균 조도는? (손실은 이미 반영된 입사 광속이다.)",
+    "choices": [
+      "1080 lx",
+      "1440 lx",
+      "360 lx",
+      "720 lx"
+    ],
+    "answer": 3,
+    "explanation": "평균 조도는 작업면에 입사한 총 광속을 면적으로 나눈 값이다. E=Φ/A=1800/5=360 lx. 광원 자체의 광속과 입사 광속을 혼동하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F1",
+    "calculation": {
+      "kind": "illuminance",
+      "values": [
+        1800,
+        5
+      ],
+      "result": 360,
+      "unit": "lx"
+    }
+  },
+  {
+    "id": "EWC-1-019",
+    "subject": "전기응용 및 공사재료",
+    "topic": "조명·평균 조도",
+    "question": "면적 5 m²인 작업면에 광속 1900 lm이 균일하게 입사한다. 평균 조도는? (손실은 이미 반영된 입사 광속이다.)",
+    "choices": [
+      "1520 lx",
+      "380 lx",
+      "760 lx",
+      "1140 lx"
+    ],
+    "answer": 2,
+    "explanation": "평균 조도는 작업면에 입사한 총 광속을 면적으로 나눈 값이다. E=Φ/A=1900/5=380 lx. 광원 자체의 광속과 입사 광속을 혼동하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F1",
+    "calculation": {
+      "kind": "illuminance",
+      "values": [
+        1900,
+        5
+      ],
+      "result": 380,
+      "unit": "lx"
+    }
+  },
+  {
+    "id": "EWC-1-020",
+    "subject": "전기응용 및 공사재료",
+    "topic": "조명·평균 조도",
+    "question": "면적 5 m²인 작업면에 광속 2000 lm이 균일하게 입사한다. 평균 조도는? (손실은 이미 반영된 입사 광속이다.)",
+    "choices": [
+      "400 lx",
+      "800 lx",
+      "1200 lx",
+      "1600 lx"
+    ],
+    "answer": 1,
+    "explanation": "평균 조도는 작업면에 입사한 총 광속을 면적으로 나눈 값이다. E=Φ/A=2000/5=400 lx. 광원 자체의 광속과 입사 광속을 혼동하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F1",
+    "calculation": {
+      "kind": "illuminance",
+      "values": [
+        2000,
+        5
+      ],
+      "result": 400,
+      "unit": "lx"
+    }
+  },
+  {
+    "id": "EWC-2-001",
+    "subject": "전력공학",
+    "topic": "배전·저항 손실",
+    "question": "저항 2 Ω인 선로 도체 한 가닥에 실효값 3 A가 흐른다. 이 도체 한 가닥의 줄 손실 전력은? (왕복 두 가닥 합계가 아니다.)",
+    "choices": [
+      "36 W",
+      "54 W",
+      "72 W",
+      "18 W"
+    ],
+    "answer": 4,
+    "explanation": "도체의 유효전력 손실은 P=I²R이다. 실효값을 사용하므로 P=3²×2=18 W. 제시된 저항은 도체 한 가닥의 전체 저항이므로 왕복 계수 2를 추가하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F2",
+    "calculation": {
+      "kind": "lineLoss",
+      "values": [
+        3,
+        2
+      ],
+      "result": 18,
+      "unit": "W"
+    }
+  },
+  {
+    "id": "EWC-2-002",
+    "subject": "전력공학",
+    "topic": "배전·저항 손실",
+    "question": "저항 2 Ω인 선로 도체 한 가닥에 실효값 4 A가 흐른다. 이 도체 한 가닥의 줄 손실 전력은? (왕복 두 가닥 합계가 아니다.)",
+    "choices": [
+      "96 W",
+      "128 W",
+      "32 W",
+      "64 W"
+    ],
+    "answer": 3,
+    "explanation": "도체의 유효전력 손실은 P=I²R이다. 실효값을 사용하므로 P=4²×2=32 W. 제시된 저항은 도체 한 가닥의 전체 저항이므로 왕복 계수 2를 추가하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F2",
+    "calculation": {
+      "kind": "lineLoss",
+      "values": [
+        4,
+        2
+      ],
+      "result": 32,
+      "unit": "W"
+    }
+  },
+  {
+    "id": "EWC-2-003",
+    "subject": "전력공학",
+    "topic": "배전·저항 손실",
+    "question": "저항 2 Ω인 선로 도체 한 가닥에 실효값 5 A가 흐른다. 이 도체 한 가닥의 줄 손실 전력은? (왕복 두 가닥 합계가 아니다.)",
+    "choices": [
+      "200 W",
+      "50 W",
+      "100 W",
+      "150 W"
+    ],
+    "answer": 2,
+    "explanation": "도체의 유효전력 손실은 P=I²R이다. 실효값을 사용하므로 P=5²×2=50 W. 제시된 저항은 도체 한 가닥의 전체 저항이므로 왕복 계수 2를 추가하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F2",
+    "calculation": {
+      "kind": "lineLoss",
+      "values": [
+        5,
+        2
+      ],
+      "result": 50,
+      "unit": "W"
+    }
+  },
+  {
+    "id": "EWC-2-004",
+    "subject": "전력공학",
+    "topic": "배전·저항 손실",
+    "question": "저항 2 Ω인 선로 도체 한 가닥에 실효값 6 A가 흐른다. 이 도체 한 가닥의 줄 손실 전력은? (왕복 두 가닥 합계가 아니다.)",
+    "choices": [
+      "72 W",
+      "144 W",
+      "216 W",
+      "288 W"
+    ],
+    "answer": 1,
+    "explanation": "도체의 유효전력 손실은 P=I²R이다. 실효값을 사용하므로 P=6²×2=72 W. 제시된 저항은 도체 한 가닥의 전체 저항이므로 왕복 계수 2를 추가하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F2",
+    "calculation": {
+      "kind": "lineLoss",
+      "values": [
+        6,
+        2
+      ],
+      "result": 72,
+      "unit": "W"
+    }
+  },
+  {
+    "id": "EWC-2-005",
+    "subject": "전력공학",
+    "topic": "배전·저항 손실",
+    "question": "저항 2 Ω인 선로 도체 한 가닥에 실효값 7 A가 흐른다. 이 도체 한 가닥의 줄 손실 전력은? (왕복 두 가닥 합계가 아니다.)",
+    "choices": [
+      "196 W",
+      "294 W",
+      "392 W",
+      "98 W"
+    ],
+    "answer": 4,
+    "explanation": "도체의 유효전력 손실은 P=I²R이다. 실효값을 사용하므로 P=7²×2=98 W. 제시된 저항은 도체 한 가닥의 전체 저항이므로 왕복 계수 2를 추가하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F2",
+    "calculation": {
+      "kind": "lineLoss",
+      "values": [
+        7,
+        2
+      ],
+      "result": 98,
+      "unit": "W"
+    }
+  },
+  {
+    "id": "EWC-2-006",
+    "subject": "전력공학",
+    "topic": "배전·저항 손실",
+    "question": "저항 2 Ω인 선로 도체 한 가닥에 실효값 8 A가 흐른다. 이 도체 한 가닥의 줄 손실 전력은? (왕복 두 가닥 합계가 아니다.)",
+    "choices": [
+      "384 W",
+      "512 W",
+      "128 W",
+      "256 W"
+    ],
+    "answer": 3,
+    "explanation": "도체의 유효전력 손실은 P=I²R이다. 실효값을 사용하므로 P=8²×2=128 W. 제시된 저항은 도체 한 가닥의 전체 저항이므로 왕복 계수 2를 추가하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F2",
+    "calculation": {
+      "kind": "lineLoss",
+      "values": [
+        8,
+        2
+      ],
+      "result": 128,
+      "unit": "W"
+    }
+  },
+  {
+    "id": "EWC-2-007",
+    "subject": "전력공학",
+    "topic": "배전·저항 손실",
+    "question": "저항 2 Ω인 선로 도체 한 가닥에 실효값 9 A가 흐른다. 이 도체 한 가닥의 줄 손실 전력은? (왕복 두 가닥 합계가 아니다.)",
+    "choices": [
+      "648 W",
+      "162 W",
+      "324 W",
+      "486 W"
+    ],
+    "answer": 2,
+    "explanation": "도체의 유효전력 손실은 P=I²R이다. 실효값을 사용하므로 P=9²×2=162 W. 제시된 저항은 도체 한 가닥의 전체 저항이므로 왕복 계수 2를 추가하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F2",
+    "calculation": {
+      "kind": "lineLoss",
+      "values": [
+        9,
+        2
+      ],
+      "result": 162,
+      "unit": "W"
+    }
+  },
+  {
+    "id": "EWC-2-008",
+    "subject": "전력공학",
+    "topic": "배전·저항 손실",
+    "question": "저항 2 Ω인 선로 도체 한 가닥에 실효값 10 A가 흐른다. 이 도체 한 가닥의 줄 손실 전력은? (왕복 두 가닥 합계가 아니다.)",
+    "choices": [
+      "200 W",
+      "400 W",
+      "600 W",
+      "800 W"
+    ],
+    "answer": 1,
+    "explanation": "도체의 유효전력 손실은 P=I²R이다. 실효값을 사용하므로 P=10²×2=200 W. 제시된 저항은 도체 한 가닥의 전체 저항이므로 왕복 계수 2를 추가하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F2",
+    "calculation": {
+      "kind": "lineLoss",
+      "values": [
+        10,
+        2
+      ],
+      "result": 200,
+      "unit": "W"
+    }
+  },
+  {
+    "id": "EWC-2-009",
+    "subject": "전력공학",
+    "topic": "배전·저항 손실",
+    "question": "저항 2 Ω인 선로 도체 한 가닥에 실효값 11 A가 흐른다. 이 도체 한 가닥의 줄 손실 전력은? (왕복 두 가닥 합계가 아니다.)",
+    "choices": [
+      "484 W",
+      "726 W",
+      "968 W",
+      "242 W"
+    ],
+    "answer": 4,
+    "explanation": "도체의 유효전력 손실은 P=I²R이다. 실효값을 사용하므로 P=11²×2=242 W. 제시된 저항은 도체 한 가닥의 전체 저항이므로 왕복 계수 2를 추가하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F2",
+    "calculation": {
+      "kind": "lineLoss",
+      "values": [
+        11,
+        2
+      ],
+      "result": 242,
+      "unit": "W"
+    }
+  },
+  {
+    "id": "EWC-2-010",
+    "subject": "전력공학",
+    "topic": "배전·저항 손실",
+    "question": "저항 2 Ω인 선로 도체 한 가닥에 실효값 12 A가 흐른다. 이 도체 한 가닥의 줄 손실 전력은? (왕복 두 가닥 합계가 아니다.)",
+    "choices": [
+      "864 W",
+      "1152 W",
+      "288 W",
+      "576 W"
+    ],
+    "answer": 3,
+    "explanation": "도체의 유효전력 손실은 P=I²R이다. 실효값을 사용하므로 P=12²×2=288 W. 제시된 저항은 도체 한 가닥의 전체 저항이므로 왕복 계수 2를 추가하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F2",
+    "calculation": {
+      "kind": "lineLoss",
+      "values": [
+        12,
+        2
+      ],
+      "result": 288,
+      "unit": "W"
+    }
+  },
+  {
+    "id": "EWC-2-011",
+    "subject": "전력공학",
+    "topic": "배전·저항 손실",
+    "question": "저항 2 Ω인 선로 도체 한 가닥에 실효값 13 A가 흐른다. 이 도체 한 가닥의 줄 손실 전력은? (왕복 두 가닥 합계가 아니다.)",
+    "choices": [
+      "1352 W",
+      "338 W",
+      "676 W",
+      "1014 W"
+    ],
+    "answer": 2,
+    "explanation": "도체의 유효전력 손실은 P=I²R이다. 실효값을 사용하므로 P=13²×2=338 W. 제시된 저항은 도체 한 가닥의 전체 저항이므로 왕복 계수 2를 추가하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F2",
+    "calculation": {
+      "kind": "lineLoss",
+      "values": [
+        13,
+        2
+      ],
+      "result": 338,
+      "unit": "W"
+    }
+  },
+  {
+    "id": "EWC-2-012",
+    "subject": "전력공학",
+    "topic": "배전·저항 손실",
+    "question": "저항 2 Ω인 선로 도체 한 가닥에 실효값 14 A가 흐른다. 이 도체 한 가닥의 줄 손실 전력은? (왕복 두 가닥 합계가 아니다.)",
+    "choices": [
+      "392 W",
+      "784 W",
+      "1176 W",
+      "1568 W"
+    ],
+    "answer": 1,
+    "explanation": "도체의 유효전력 손실은 P=I²R이다. 실효값을 사용하므로 P=14²×2=392 W. 제시된 저항은 도체 한 가닥의 전체 저항이므로 왕복 계수 2를 추가하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F2",
+    "calculation": {
+      "kind": "lineLoss",
+      "values": [
+        14,
+        2
+      ],
+      "result": 392,
+      "unit": "W"
+    }
+  },
+  {
+    "id": "EWC-2-013",
+    "subject": "전력공학",
+    "topic": "배전·저항 손실",
+    "question": "저항 2 Ω인 선로 도체 한 가닥에 실효값 15 A가 흐른다. 이 도체 한 가닥의 줄 손실 전력은? (왕복 두 가닥 합계가 아니다.)",
+    "choices": [
+      "900 W",
+      "1350 W",
+      "1800 W",
+      "450 W"
+    ],
+    "answer": 4,
+    "explanation": "도체의 유효전력 손실은 P=I²R이다. 실효값을 사용하므로 P=15²×2=450 W. 제시된 저항은 도체 한 가닥의 전체 저항이므로 왕복 계수 2를 추가하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F2",
+    "calculation": {
+      "kind": "lineLoss",
+      "values": [
+        15,
+        2
+      ],
+      "result": 450,
+      "unit": "W"
+    }
+  },
+  {
+    "id": "EWC-2-014",
+    "subject": "전력공학",
+    "topic": "배전·저항 손실",
+    "question": "저항 2 Ω인 선로 도체 한 가닥에 실효값 16 A가 흐른다. 이 도체 한 가닥의 줄 손실 전력은? (왕복 두 가닥 합계가 아니다.)",
+    "choices": [
+      "1536 W",
+      "2048 W",
+      "512 W",
+      "1024 W"
+    ],
+    "answer": 3,
+    "explanation": "도체의 유효전력 손실은 P=I²R이다. 실효값을 사용하므로 P=16²×2=512 W. 제시된 저항은 도체 한 가닥의 전체 저항이므로 왕복 계수 2를 추가하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F2",
+    "calculation": {
+      "kind": "lineLoss",
+      "values": [
+        16,
+        2
+      ],
+      "result": 512,
+      "unit": "W"
+    }
+  },
+  {
+    "id": "EWC-2-015",
+    "subject": "전력공학",
+    "topic": "배전·저항 손실",
+    "question": "저항 2 Ω인 선로 도체 한 가닥에 실효값 17 A가 흐른다. 이 도체 한 가닥의 줄 손실 전력은? (왕복 두 가닥 합계가 아니다.)",
+    "choices": [
+      "2312 W",
+      "578 W",
+      "1156 W",
+      "1734 W"
+    ],
+    "answer": 2,
+    "explanation": "도체의 유효전력 손실은 P=I²R이다. 실효값을 사용하므로 P=17²×2=578 W. 제시된 저항은 도체 한 가닥의 전체 저항이므로 왕복 계수 2를 추가하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F2",
+    "calculation": {
+      "kind": "lineLoss",
+      "values": [
+        17,
+        2
+      ],
+      "result": 578,
+      "unit": "W"
+    }
+  },
+  {
+    "id": "EWC-2-016",
+    "subject": "전력공학",
+    "topic": "배전·저항 손실",
+    "question": "저항 2 Ω인 선로 도체 한 가닥에 실효값 18 A가 흐른다. 이 도체 한 가닥의 줄 손실 전력은? (왕복 두 가닥 합계가 아니다.)",
+    "choices": [
+      "648 W",
+      "1296 W",
+      "1944 W",
+      "2592 W"
+    ],
+    "answer": 1,
+    "explanation": "도체의 유효전력 손실은 P=I²R이다. 실효값을 사용하므로 P=18²×2=648 W. 제시된 저항은 도체 한 가닥의 전체 저항이므로 왕복 계수 2를 추가하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F2",
+    "calculation": {
+      "kind": "lineLoss",
+      "values": [
+        18,
+        2
+      ],
+      "result": 648,
+      "unit": "W"
+    }
+  },
+  {
+    "id": "EWC-2-017",
+    "subject": "전력공학",
+    "topic": "배전·저항 손실",
+    "question": "저항 2 Ω인 선로 도체 한 가닥에 실효값 19 A가 흐른다. 이 도체 한 가닥의 줄 손실 전력은? (왕복 두 가닥 합계가 아니다.)",
+    "choices": [
+      "1444 W",
+      "2166 W",
+      "2888 W",
+      "722 W"
+    ],
+    "answer": 4,
+    "explanation": "도체의 유효전력 손실은 P=I²R이다. 실효값을 사용하므로 P=19²×2=722 W. 제시된 저항은 도체 한 가닥의 전체 저항이므로 왕복 계수 2를 추가하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F2",
+    "calculation": {
+      "kind": "lineLoss",
+      "values": [
+        19,
+        2
+      ],
+      "result": 722,
+      "unit": "W"
+    }
+  },
+  {
+    "id": "EWC-2-018",
+    "subject": "전력공학",
+    "topic": "배전·저항 손실",
+    "question": "저항 2 Ω인 선로 도체 한 가닥에 실효값 20 A가 흐른다. 이 도체 한 가닥의 줄 손실 전력은? (왕복 두 가닥 합계가 아니다.)",
+    "choices": [
+      "2400 W",
+      "3200 W",
+      "800 W",
+      "1600 W"
+    ],
+    "answer": 3,
+    "explanation": "도체의 유효전력 손실은 P=I²R이다. 실효값을 사용하므로 P=20²×2=800 W. 제시된 저항은 도체 한 가닥의 전체 저항이므로 왕복 계수 2를 추가하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F2",
+    "calculation": {
+      "kind": "lineLoss",
+      "values": [
+        20,
+        2
+      ],
+      "result": 800,
+      "unit": "W"
+    }
+  },
+  {
+    "id": "EWC-2-019",
+    "subject": "전력공학",
+    "topic": "배전·저항 손실",
+    "question": "저항 2 Ω인 선로 도체 한 가닥에 실효값 21 A가 흐른다. 이 도체 한 가닥의 줄 손실 전력은? (왕복 두 가닥 합계가 아니다.)",
+    "choices": [
+      "3528 W",
+      "882 W",
+      "1764 W",
+      "2646 W"
+    ],
+    "answer": 2,
+    "explanation": "도체의 유효전력 손실은 P=I²R이다. 실효값을 사용하므로 P=21²×2=882 W. 제시된 저항은 도체 한 가닥의 전체 저항이므로 왕복 계수 2를 추가하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F2",
+    "calculation": {
+      "kind": "lineLoss",
+      "values": [
+        21,
+        2
+      ],
+      "result": 882,
+      "unit": "W"
+    }
+  },
+  {
+    "id": "EWC-2-020",
+    "subject": "전력공학",
+    "topic": "배전·저항 손실",
+    "question": "저항 2 Ω인 선로 도체 한 가닥에 실효값 22 A가 흐른다. 이 도체 한 가닥의 줄 손실 전력은? (왕복 두 가닥 합계가 아니다.)",
+    "choices": [
+      "968 W",
+      "1936 W",
+      "2904 W",
+      "3872 W"
+    ],
+    "answer": 1,
+    "explanation": "도체의 유효전력 손실은 P=I²R이다. 실효값을 사용하므로 P=22²×2=968 W. 제시된 저항은 도체 한 가닥의 전체 저항이므로 왕복 계수 2를 추가하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F2",
+    "calculation": {
+      "kind": "lineLoss",
+      "values": [
+        22,
+        2
+      ],
+      "result": 968,
+      "unit": "W"
+    }
+  },
+  {
+    "id": "EWC-3-001",
+    "subject": "전기기기",
+    "topic": "유도전동기·슬립",
+    "question": "유도전동기의 동기속도는 1500 min⁻¹, 회전자 속도는 1485 min⁻¹이다. 슬립의 백분율은?",
+    "choices": [
+      "2 %",
+      "3 %",
+      "4 %",
+      "1 %"
+    ],
+    "answer": 4,
+    "explanation": "슬립은 동기속도에 대한 속도 차의 비율이다. s=(Ns-N)/Ns×100=(1500-1485)/1500×100=1 %. 모터 운전이며 회전자 속도가 동기속도보다 낮다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F3",
+    "calculation": {
+      "kind": "slip",
+      "values": [
+        1500,
+        1485
+      ],
+      "result": 1,
+      "unit": "%"
+    }
+  },
+  {
+    "id": "EWC-3-002",
+    "subject": "전기기기",
+    "topic": "유도전동기·슬립",
+    "question": "유도전동기의 동기속도는 1500 min⁻¹, 회전자 속도는 1470 min⁻¹이다. 슬립의 백분율은?",
+    "choices": [
+      "6 %",
+      "8 %",
+      "2 %",
+      "4 %"
+    ],
+    "answer": 3,
+    "explanation": "슬립은 동기속도에 대한 속도 차의 비율이다. s=(Ns-N)/Ns×100=(1500-1470)/1500×100=2 %. 모터 운전이며 회전자 속도가 동기속도보다 낮다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F3",
+    "calculation": {
+      "kind": "slip",
+      "values": [
+        1500,
+        1470
+      ],
+      "result": 2,
+      "unit": "%"
+    }
+  },
+  {
+    "id": "EWC-3-003",
+    "subject": "전기기기",
+    "topic": "유도전동기·슬립",
+    "question": "유도전동기의 동기속도는 1500 min⁻¹, 회전자 속도는 1455 min⁻¹이다. 슬립의 백분율은?",
+    "choices": [
+      "12 %",
+      "3 %",
+      "6 %",
+      "9 %"
+    ],
+    "answer": 2,
+    "explanation": "슬립은 동기속도에 대한 속도 차의 비율이다. s=(Ns-N)/Ns×100=(1500-1455)/1500×100=3 %. 모터 운전이며 회전자 속도가 동기속도보다 낮다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F3",
+    "calculation": {
+      "kind": "slip",
+      "values": [
+        1500,
+        1455
+      ],
+      "result": 3,
+      "unit": "%"
+    }
+  },
+  {
+    "id": "EWC-3-004",
+    "subject": "전기기기",
+    "topic": "유도전동기·슬립",
+    "question": "유도전동기의 동기속도는 1500 min⁻¹, 회전자 속도는 1440 min⁻¹이다. 슬립의 백분율은?",
+    "choices": [
+      "4 %",
+      "8 %",
+      "12 %",
+      "16 %"
+    ],
+    "answer": 1,
+    "explanation": "슬립은 동기속도에 대한 속도 차의 비율이다. s=(Ns-N)/Ns×100=(1500-1440)/1500×100=4 %. 모터 운전이며 회전자 속도가 동기속도보다 낮다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F3",
+    "calculation": {
+      "kind": "slip",
+      "values": [
+        1500,
+        1440
+      ],
+      "result": 4,
+      "unit": "%"
+    }
+  },
+  {
+    "id": "EWC-3-005",
+    "subject": "전기기기",
+    "topic": "유도전동기·슬립",
+    "question": "유도전동기의 동기속도는 1500 min⁻¹, 회전자 속도는 1425 min⁻¹이다. 슬립의 백분율은?",
+    "choices": [
+      "10 %",
+      "15 %",
+      "20 %",
+      "5 %"
+    ],
+    "answer": 4,
+    "explanation": "슬립은 동기속도에 대한 속도 차의 비율이다. s=(Ns-N)/Ns×100=(1500-1425)/1500×100=5 %. 모터 운전이며 회전자 속도가 동기속도보다 낮다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F3",
+    "calculation": {
+      "kind": "slip",
+      "values": [
+        1500,
+        1425
+      ],
+      "result": 5,
+      "unit": "%"
+    }
+  },
+  {
+    "id": "EWC-3-006",
+    "subject": "전기기기",
+    "topic": "유도전동기·슬립",
+    "question": "유도전동기의 동기속도는 1500 min⁻¹, 회전자 속도는 1410 min⁻¹이다. 슬립의 백분율은?",
+    "choices": [
+      "18 %",
+      "24 %",
+      "6 %",
+      "12 %"
+    ],
+    "answer": 3,
+    "explanation": "슬립은 동기속도에 대한 속도 차의 비율이다. s=(Ns-N)/Ns×100=(1500-1410)/1500×100=6 %. 모터 운전이며 회전자 속도가 동기속도보다 낮다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F3",
+    "calculation": {
+      "kind": "slip",
+      "values": [
+        1500,
+        1410
+      ],
+      "result": 6,
+      "unit": "%"
+    }
+  },
+  {
+    "id": "EWC-3-007",
+    "subject": "전기기기",
+    "topic": "유도전동기·슬립",
+    "question": "유도전동기의 동기속도는 1500 min⁻¹, 회전자 속도는 1395 min⁻¹이다. 슬립의 백분율은?",
+    "choices": [
+      "28 %",
+      "7 %",
+      "14 %",
+      "21 %"
+    ],
+    "answer": 2,
+    "explanation": "슬립은 동기속도에 대한 속도 차의 비율이다. s=(Ns-N)/Ns×100=(1500-1395)/1500×100=7 %. 모터 운전이며 회전자 속도가 동기속도보다 낮다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F3",
+    "calculation": {
+      "kind": "slip",
+      "values": [
+        1500,
+        1395
+      ],
+      "result": 7,
+      "unit": "%"
+    }
+  },
+  {
+    "id": "EWC-3-008",
+    "subject": "전기기기",
+    "topic": "유도전동기·슬립",
+    "question": "유도전동기의 동기속도는 1500 min⁻¹, 회전자 속도는 1380 min⁻¹이다. 슬립의 백분율은?",
+    "choices": [
+      "8 %",
+      "16 %",
+      "24 %",
+      "32 %"
+    ],
+    "answer": 1,
+    "explanation": "슬립은 동기속도에 대한 속도 차의 비율이다. s=(Ns-N)/Ns×100=(1500-1380)/1500×100=8 %. 모터 운전이며 회전자 속도가 동기속도보다 낮다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F3",
+    "calculation": {
+      "kind": "slip",
+      "values": [
+        1500,
+        1380
+      ],
+      "result": 8,
+      "unit": "%"
+    }
+  },
+  {
+    "id": "EWC-3-009",
+    "subject": "전기기기",
+    "topic": "유도전동기·슬립",
+    "question": "유도전동기의 동기속도는 1500 min⁻¹, 회전자 속도는 1365 min⁻¹이다. 슬립의 백분율은?",
+    "choices": [
+      "18 %",
+      "27 %",
+      "36 %",
+      "9 %"
+    ],
+    "answer": 4,
+    "explanation": "슬립은 동기속도에 대한 속도 차의 비율이다. s=(Ns-N)/Ns×100=(1500-1365)/1500×100=9 %. 모터 운전이며 회전자 속도가 동기속도보다 낮다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F3",
+    "calculation": {
+      "kind": "slip",
+      "values": [
+        1500,
+        1365
+      ],
+      "result": 9,
+      "unit": "%"
+    }
+  },
+  {
+    "id": "EWC-3-010",
+    "subject": "전기기기",
+    "topic": "유도전동기·슬립",
+    "question": "유도전동기의 동기속도는 1500 min⁻¹, 회전자 속도는 1350 min⁻¹이다. 슬립의 백분율은?",
+    "choices": [
+      "30 %",
+      "40 %",
+      "10 %",
+      "20 %"
+    ],
+    "answer": 3,
+    "explanation": "슬립은 동기속도에 대한 속도 차의 비율이다. s=(Ns-N)/Ns×100=(1500-1350)/1500×100=10 %. 모터 운전이며 회전자 속도가 동기속도보다 낮다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F3",
+    "calculation": {
+      "kind": "slip",
+      "values": [
+        1500,
+        1350
+      ],
+      "result": 10,
+      "unit": "%"
+    }
+  },
+  {
+    "id": "EWC-3-011",
+    "subject": "전기기기",
+    "topic": "유도전동기·슬립",
+    "question": "유도전동기의 동기속도는 1500 min⁻¹, 회전자 속도는 1335 min⁻¹이다. 슬립의 백분율은?",
+    "choices": [
+      "44 %",
+      "11 %",
+      "22 %",
+      "33 %"
+    ],
+    "answer": 2,
+    "explanation": "슬립은 동기속도에 대한 속도 차의 비율이다. s=(Ns-N)/Ns×100=(1500-1335)/1500×100=11 %. 모터 운전이며 회전자 속도가 동기속도보다 낮다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F3",
+    "calculation": {
+      "kind": "slip",
+      "values": [
+        1500,
+        1335
+      ],
+      "result": 11,
+      "unit": "%"
+    }
+  },
+  {
+    "id": "EWC-3-012",
+    "subject": "전기기기",
+    "topic": "유도전동기·슬립",
+    "question": "유도전동기의 동기속도는 1500 min⁻¹, 회전자 속도는 1320 min⁻¹이다. 슬립의 백분율은?",
+    "choices": [
+      "12 %",
+      "24 %",
+      "36 %",
+      "48 %"
+    ],
+    "answer": 1,
+    "explanation": "슬립은 동기속도에 대한 속도 차의 비율이다. s=(Ns-N)/Ns×100=(1500-1320)/1500×100=12 %. 모터 운전이며 회전자 속도가 동기속도보다 낮다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F3",
+    "calculation": {
+      "kind": "slip",
+      "values": [
+        1500,
+        1320
+      ],
+      "result": 12,
+      "unit": "%"
+    }
+  },
+  {
+    "id": "EWC-3-013",
+    "subject": "전기기기",
+    "topic": "유도전동기·슬립",
+    "question": "유도전동기의 동기속도는 1500 min⁻¹, 회전자 속도는 1305 min⁻¹이다. 슬립의 백분율은?",
+    "choices": [
+      "26 %",
+      "39 %",
+      "52 %",
+      "13 %"
+    ],
+    "answer": 4,
+    "explanation": "슬립은 동기속도에 대한 속도 차의 비율이다. s=(Ns-N)/Ns×100=(1500-1305)/1500×100=13 %. 모터 운전이며 회전자 속도가 동기속도보다 낮다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F3",
+    "calculation": {
+      "kind": "slip",
+      "values": [
+        1500,
+        1305
+      ],
+      "result": 13,
+      "unit": "%"
+    }
+  },
+  {
+    "id": "EWC-3-014",
+    "subject": "전기기기",
+    "topic": "유도전동기·슬립",
+    "question": "유도전동기의 동기속도는 1500 min⁻¹, 회전자 속도는 1290 min⁻¹이다. 슬립의 백분율은?",
+    "choices": [
+      "42 %",
+      "56 %",
+      "14 %",
+      "28 %"
+    ],
+    "answer": 3,
+    "explanation": "슬립은 동기속도에 대한 속도 차의 비율이다. s=(Ns-N)/Ns×100=(1500-1290)/1500×100=14 %. 모터 운전이며 회전자 속도가 동기속도보다 낮다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F3",
+    "calculation": {
+      "kind": "slip",
+      "values": [
+        1500,
+        1290
+      ],
+      "result": 14,
+      "unit": "%"
+    }
+  },
+  {
+    "id": "EWC-3-015",
+    "subject": "전기기기",
+    "topic": "유도전동기·슬립",
+    "question": "유도전동기의 동기속도는 1500 min⁻¹, 회전자 속도는 1275 min⁻¹이다. 슬립의 백분율은?",
+    "choices": [
+      "60 %",
+      "15 %",
+      "30 %",
+      "45 %"
+    ],
+    "answer": 2,
+    "explanation": "슬립은 동기속도에 대한 속도 차의 비율이다. s=(Ns-N)/Ns×100=(1500-1275)/1500×100=15 %. 모터 운전이며 회전자 속도가 동기속도보다 낮다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F3",
+    "calculation": {
+      "kind": "slip",
+      "values": [
+        1500,
+        1275
+      ],
+      "result": 15,
+      "unit": "%"
+    }
+  },
+  {
+    "id": "EWC-3-016",
+    "subject": "전기기기",
+    "topic": "유도전동기·슬립",
+    "question": "유도전동기의 동기속도는 1500 min⁻¹, 회전자 속도는 1260 min⁻¹이다. 슬립의 백분율은?",
+    "choices": [
+      "16 %",
+      "32 %",
+      "48 %",
+      "64 %"
+    ],
+    "answer": 1,
+    "explanation": "슬립은 동기속도에 대한 속도 차의 비율이다. s=(Ns-N)/Ns×100=(1500-1260)/1500×100=16 %. 모터 운전이며 회전자 속도가 동기속도보다 낮다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F3",
+    "calculation": {
+      "kind": "slip",
+      "values": [
+        1500,
+        1260
+      ],
+      "result": 16,
+      "unit": "%"
+    }
+  },
+  {
+    "id": "EWC-3-017",
+    "subject": "전기기기",
+    "topic": "유도전동기·슬립",
+    "question": "유도전동기의 동기속도는 1500 min⁻¹, 회전자 속도는 1245 min⁻¹이다. 슬립의 백분율은?",
+    "choices": [
+      "34 %",
+      "51 %",
+      "68 %",
+      "17 %"
+    ],
+    "answer": 4,
+    "explanation": "슬립은 동기속도에 대한 속도 차의 비율이다. s=(Ns-N)/Ns×100=(1500-1245)/1500×100=17 %. 모터 운전이며 회전자 속도가 동기속도보다 낮다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F3",
+    "calculation": {
+      "kind": "slip",
+      "values": [
+        1500,
+        1245
+      ],
+      "result": 17,
+      "unit": "%"
+    }
+  },
+  {
+    "id": "EWC-3-018",
+    "subject": "전기기기",
+    "topic": "유도전동기·슬립",
+    "question": "유도전동기의 동기속도는 1500 min⁻¹, 회전자 속도는 1230 min⁻¹이다. 슬립의 백분율은?",
+    "choices": [
+      "54 %",
+      "72 %",
+      "18 %",
+      "36 %"
+    ],
+    "answer": 3,
+    "explanation": "슬립은 동기속도에 대한 속도 차의 비율이다. s=(Ns-N)/Ns×100=(1500-1230)/1500×100=18 %. 모터 운전이며 회전자 속도가 동기속도보다 낮다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F3",
+    "calculation": {
+      "kind": "slip",
+      "values": [
+        1500,
+        1230
+      ],
+      "result": 18,
+      "unit": "%"
+    }
+  },
+  {
+    "id": "EWC-3-019",
+    "subject": "전기기기",
+    "topic": "유도전동기·슬립",
+    "question": "유도전동기의 동기속도는 1500 min⁻¹, 회전자 속도는 1215 min⁻¹이다. 슬립의 백분율은?",
+    "choices": [
+      "76 %",
+      "19 %",
+      "38 %",
+      "57 %"
+    ],
+    "answer": 2,
+    "explanation": "슬립은 동기속도에 대한 속도 차의 비율이다. s=(Ns-N)/Ns×100=(1500-1215)/1500×100=19 %. 모터 운전이며 회전자 속도가 동기속도보다 낮다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F3",
+    "calculation": {
+      "kind": "slip",
+      "values": [
+        1500,
+        1215
+      ],
+      "result": 19,
+      "unit": "%"
+    }
+  },
+  {
+    "id": "EWC-3-020",
+    "subject": "전기기기",
+    "topic": "유도전동기·슬립",
+    "question": "유도전동기의 동기속도는 1500 min⁻¹, 회전자 속도는 1200 min⁻¹이다. 슬립의 백분율은?",
+    "choices": [
+      "20 %",
+      "40 %",
+      "60 %",
+      "80 %"
+    ],
+    "answer": 1,
+    "explanation": "슬립은 동기속도에 대한 속도 차의 비율이다. s=(Ns-N)/Ns×100=(1500-1200)/1500×100=20 %. 모터 운전이며 회전자 속도가 동기속도보다 낮다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F3",
+    "calculation": {
+      "kind": "slip",
+      "values": [
+        1500,
+        1200
+      ],
+      "result": 20,
+      "unit": "%"
+    }
+  },
+  {
+    "id": "EWC-4-001",
+    "subject": "회로이론 및 제어공학",
+    "topic": "교류·직렬 RL",
+    "question": "저항 3 Ω과 유도 리액턴스 4 Ω이 직렬 연결된 교류 회로이다. 임피던스 크기는?",
+    "choices": [
+      "10 Ω",
+      "15 Ω",
+      "20 Ω",
+      "5 Ω"
+    ],
+    "answer": 4,
+    "explanation": "직렬 RL 회로에서 Z=R+jX이므로 크기는 √(R²+X²)이다. |Z|=√(3²+4²)=5 Ω. 저항과 리액턴스는 위상이 직교하므로 크기를 단순 합산하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F4",
+    "calculation": {
+      "kind": "impedance",
+      "values": [
+        3,
+        4
+      ],
+      "result": 5,
+      "unit": "Ω"
+    }
+  },
+  {
+    "id": "EWC-4-002",
+    "subject": "회로이론 및 제어공학",
+    "topic": "교류·직렬 RL",
+    "question": "저항 6 Ω과 유도 리액턴스 8 Ω이 직렬 연결된 교류 회로이다. 임피던스 크기는?",
+    "choices": [
+      "30 Ω",
+      "40 Ω",
+      "10 Ω",
+      "20 Ω"
+    ],
+    "answer": 3,
+    "explanation": "직렬 RL 회로에서 Z=R+jX이므로 크기는 √(R²+X²)이다. |Z|=√(6²+8²)=10 Ω. 저항과 리액턴스는 위상이 직교하므로 크기를 단순 합산하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F4",
+    "calculation": {
+      "kind": "impedance",
+      "values": [
+        6,
+        8
+      ],
+      "result": 10,
+      "unit": "Ω"
+    }
+  },
+  {
+    "id": "EWC-4-003",
+    "subject": "회로이론 및 제어공학",
+    "topic": "교류·직렬 RL",
+    "question": "저항 9 Ω과 유도 리액턴스 12 Ω이 직렬 연결된 교류 회로이다. 임피던스 크기는?",
+    "choices": [
+      "60 Ω",
+      "15 Ω",
+      "30 Ω",
+      "45 Ω"
+    ],
+    "answer": 2,
+    "explanation": "직렬 RL 회로에서 Z=R+jX이므로 크기는 √(R²+X²)이다. |Z|=√(9²+12²)=15 Ω. 저항과 리액턴스는 위상이 직교하므로 크기를 단순 합산하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F4",
+    "calculation": {
+      "kind": "impedance",
+      "values": [
+        9,
+        12
+      ],
+      "result": 15,
+      "unit": "Ω"
+    }
+  },
+  {
+    "id": "EWC-4-004",
+    "subject": "회로이론 및 제어공학",
+    "topic": "교류·직렬 RL",
+    "question": "저항 12 Ω과 유도 리액턴스 16 Ω이 직렬 연결된 교류 회로이다. 임피던스 크기는?",
+    "choices": [
+      "20 Ω",
+      "40 Ω",
+      "60 Ω",
+      "80 Ω"
+    ],
+    "answer": 1,
+    "explanation": "직렬 RL 회로에서 Z=R+jX이므로 크기는 √(R²+X²)이다. |Z|=√(12²+16²)=20 Ω. 저항과 리액턴스는 위상이 직교하므로 크기를 단순 합산하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F4",
+    "calculation": {
+      "kind": "impedance",
+      "values": [
+        12,
+        16
+      ],
+      "result": 20,
+      "unit": "Ω"
+    }
+  },
+  {
+    "id": "EWC-4-005",
+    "subject": "회로이론 및 제어공학",
+    "topic": "교류·직렬 RL",
+    "question": "저항 15 Ω과 유도 리액턴스 20 Ω이 직렬 연결된 교류 회로이다. 임피던스 크기는?",
+    "choices": [
+      "50 Ω",
+      "75 Ω",
+      "100 Ω",
+      "25 Ω"
+    ],
+    "answer": 4,
+    "explanation": "직렬 RL 회로에서 Z=R+jX이므로 크기는 √(R²+X²)이다. |Z|=√(15²+20²)=25 Ω. 저항과 리액턴스는 위상이 직교하므로 크기를 단순 합산하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F4",
+    "calculation": {
+      "kind": "impedance",
+      "values": [
+        15,
+        20
+      ],
+      "result": 25,
+      "unit": "Ω"
+    }
+  },
+  {
+    "id": "EWC-4-006",
+    "subject": "회로이론 및 제어공학",
+    "topic": "교류·직렬 RL",
+    "question": "저항 18 Ω과 유도 리액턴스 24 Ω이 직렬 연결된 교류 회로이다. 임피던스 크기는?",
+    "choices": [
+      "90 Ω",
+      "120 Ω",
+      "30 Ω",
+      "60 Ω"
+    ],
+    "answer": 3,
+    "explanation": "직렬 RL 회로에서 Z=R+jX이므로 크기는 √(R²+X²)이다. |Z|=√(18²+24²)=30 Ω. 저항과 리액턴스는 위상이 직교하므로 크기를 단순 합산하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F4",
+    "calculation": {
+      "kind": "impedance",
+      "values": [
+        18,
+        24
+      ],
+      "result": 30,
+      "unit": "Ω"
+    }
+  },
+  {
+    "id": "EWC-4-007",
+    "subject": "회로이론 및 제어공학",
+    "topic": "교류·직렬 RL",
+    "question": "저항 21 Ω과 유도 리액턴스 28 Ω이 직렬 연결된 교류 회로이다. 임피던스 크기는?",
+    "choices": [
+      "140 Ω",
+      "35 Ω",
+      "70 Ω",
+      "105 Ω"
+    ],
+    "answer": 2,
+    "explanation": "직렬 RL 회로에서 Z=R+jX이므로 크기는 √(R²+X²)이다. |Z|=√(21²+28²)=35 Ω. 저항과 리액턴스는 위상이 직교하므로 크기를 단순 합산하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F4",
+    "calculation": {
+      "kind": "impedance",
+      "values": [
+        21,
+        28
+      ],
+      "result": 35,
+      "unit": "Ω"
+    }
+  },
+  {
+    "id": "EWC-4-008",
+    "subject": "회로이론 및 제어공학",
+    "topic": "교류·직렬 RL",
+    "question": "저항 24 Ω과 유도 리액턴스 32 Ω이 직렬 연결된 교류 회로이다. 임피던스 크기는?",
+    "choices": [
+      "40 Ω",
+      "80 Ω",
+      "120 Ω",
+      "160 Ω"
+    ],
+    "answer": 1,
+    "explanation": "직렬 RL 회로에서 Z=R+jX이므로 크기는 √(R²+X²)이다. |Z|=√(24²+32²)=40 Ω. 저항과 리액턴스는 위상이 직교하므로 크기를 단순 합산하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F4",
+    "calculation": {
+      "kind": "impedance",
+      "values": [
+        24,
+        32
+      ],
+      "result": 40,
+      "unit": "Ω"
+    }
+  },
+  {
+    "id": "EWC-4-009",
+    "subject": "회로이론 및 제어공학",
+    "topic": "교류·직렬 RL",
+    "question": "저항 27 Ω과 유도 리액턴스 36 Ω이 직렬 연결된 교류 회로이다. 임피던스 크기는?",
+    "choices": [
+      "90 Ω",
+      "135 Ω",
+      "180 Ω",
+      "45 Ω"
+    ],
+    "answer": 4,
+    "explanation": "직렬 RL 회로에서 Z=R+jX이므로 크기는 √(R²+X²)이다. |Z|=√(27²+36²)=45 Ω. 저항과 리액턴스는 위상이 직교하므로 크기를 단순 합산하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F4",
+    "calculation": {
+      "kind": "impedance",
+      "values": [
+        27,
+        36
+      ],
+      "result": 45,
+      "unit": "Ω"
+    }
+  },
+  {
+    "id": "EWC-4-010",
+    "subject": "회로이론 및 제어공학",
+    "topic": "교류·직렬 RL",
+    "question": "저항 30 Ω과 유도 리액턴스 40 Ω이 직렬 연결된 교류 회로이다. 임피던스 크기는?",
+    "choices": [
+      "150 Ω",
+      "200 Ω",
+      "50 Ω",
+      "100 Ω"
+    ],
+    "answer": 3,
+    "explanation": "직렬 RL 회로에서 Z=R+jX이므로 크기는 √(R²+X²)이다. |Z|=√(30²+40²)=50 Ω. 저항과 리액턴스는 위상이 직교하므로 크기를 단순 합산하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F4",
+    "calculation": {
+      "kind": "impedance",
+      "values": [
+        30,
+        40
+      ],
+      "result": 50,
+      "unit": "Ω"
+    }
+  },
+  {
+    "id": "EWC-4-011",
+    "subject": "회로이론 및 제어공학",
+    "topic": "교류·직렬 RL",
+    "question": "저항 33 Ω과 유도 리액턴스 44 Ω이 직렬 연결된 교류 회로이다. 임피던스 크기는?",
+    "choices": [
+      "220 Ω",
+      "55 Ω",
+      "110 Ω",
+      "165 Ω"
+    ],
+    "answer": 2,
+    "explanation": "직렬 RL 회로에서 Z=R+jX이므로 크기는 √(R²+X²)이다. |Z|=√(33²+44²)=55 Ω. 저항과 리액턴스는 위상이 직교하므로 크기를 단순 합산하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F4",
+    "calculation": {
+      "kind": "impedance",
+      "values": [
+        33,
+        44
+      ],
+      "result": 55,
+      "unit": "Ω"
+    }
+  },
+  {
+    "id": "EWC-4-012",
+    "subject": "회로이론 및 제어공학",
+    "topic": "교류·직렬 RL",
+    "question": "저항 36 Ω과 유도 리액턴스 48 Ω이 직렬 연결된 교류 회로이다. 임피던스 크기는?",
+    "choices": [
+      "60 Ω",
+      "120 Ω",
+      "180 Ω",
+      "240 Ω"
+    ],
+    "answer": 1,
+    "explanation": "직렬 RL 회로에서 Z=R+jX이므로 크기는 √(R²+X²)이다. |Z|=√(36²+48²)=60 Ω. 저항과 리액턴스는 위상이 직교하므로 크기를 단순 합산하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F4",
+    "calculation": {
+      "kind": "impedance",
+      "values": [
+        36,
+        48
+      ],
+      "result": 60,
+      "unit": "Ω"
+    }
+  },
+  {
+    "id": "EWC-4-013",
+    "subject": "회로이론 및 제어공학",
+    "topic": "교류·직렬 RL",
+    "question": "저항 39 Ω과 유도 리액턴스 52 Ω이 직렬 연결된 교류 회로이다. 임피던스 크기는?",
+    "choices": [
+      "130 Ω",
+      "195 Ω",
+      "260 Ω",
+      "65 Ω"
+    ],
+    "answer": 4,
+    "explanation": "직렬 RL 회로에서 Z=R+jX이므로 크기는 √(R²+X²)이다. |Z|=√(39²+52²)=65 Ω. 저항과 리액턴스는 위상이 직교하므로 크기를 단순 합산하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F4",
+    "calculation": {
+      "kind": "impedance",
+      "values": [
+        39,
+        52
+      ],
+      "result": 65,
+      "unit": "Ω"
+    }
+  },
+  {
+    "id": "EWC-4-014",
+    "subject": "회로이론 및 제어공학",
+    "topic": "교류·직렬 RL",
+    "question": "저항 42 Ω과 유도 리액턴스 56 Ω이 직렬 연결된 교류 회로이다. 임피던스 크기는?",
+    "choices": [
+      "210 Ω",
+      "280 Ω",
+      "70 Ω",
+      "140 Ω"
+    ],
+    "answer": 3,
+    "explanation": "직렬 RL 회로에서 Z=R+jX이므로 크기는 √(R²+X²)이다. |Z|=√(42²+56²)=70 Ω. 저항과 리액턴스는 위상이 직교하므로 크기를 단순 합산하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F4",
+    "calculation": {
+      "kind": "impedance",
+      "values": [
+        42,
+        56
+      ],
+      "result": 70,
+      "unit": "Ω"
+    }
+  },
+  {
+    "id": "EWC-4-015",
+    "subject": "회로이론 및 제어공학",
+    "topic": "교류·직렬 RL",
+    "question": "저항 45 Ω과 유도 리액턴스 60 Ω이 직렬 연결된 교류 회로이다. 임피던스 크기는?",
+    "choices": [
+      "300 Ω",
+      "75 Ω",
+      "150 Ω",
+      "225 Ω"
+    ],
+    "answer": 2,
+    "explanation": "직렬 RL 회로에서 Z=R+jX이므로 크기는 √(R²+X²)이다. |Z|=√(45²+60²)=75 Ω. 저항과 리액턴스는 위상이 직교하므로 크기를 단순 합산하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F4",
+    "calculation": {
+      "kind": "impedance",
+      "values": [
+        45,
+        60
+      ],
+      "result": 75,
+      "unit": "Ω"
+    }
+  },
+  {
+    "id": "EWC-4-016",
+    "subject": "회로이론 및 제어공학",
+    "topic": "교류·직렬 RL",
+    "question": "저항 48 Ω과 유도 리액턴스 64 Ω이 직렬 연결된 교류 회로이다. 임피던스 크기는?",
+    "choices": [
+      "80 Ω",
+      "160 Ω",
+      "240 Ω",
+      "320 Ω"
+    ],
+    "answer": 1,
+    "explanation": "직렬 RL 회로에서 Z=R+jX이므로 크기는 √(R²+X²)이다. |Z|=√(48²+64²)=80 Ω. 저항과 리액턴스는 위상이 직교하므로 크기를 단순 합산하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F4",
+    "calculation": {
+      "kind": "impedance",
+      "values": [
+        48,
+        64
+      ],
+      "result": 80,
+      "unit": "Ω"
+    }
+  },
+  {
+    "id": "EWC-4-017",
+    "subject": "회로이론 및 제어공학",
+    "topic": "교류·직렬 RL",
+    "question": "저항 51 Ω과 유도 리액턴스 68 Ω이 직렬 연결된 교류 회로이다. 임피던스 크기는?",
+    "choices": [
+      "170 Ω",
+      "255 Ω",
+      "340 Ω",
+      "85 Ω"
+    ],
+    "answer": 4,
+    "explanation": "직렬 RL 회로에서 Z=R+jX이므로 크기는 √(R²+X²)이다. |Z|=√(51²+68²)=85 Ω. 저항과 리액턴스는 위상이 직교하므로 크기를 단순 합산하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F4",
+    "calculation": {
+      "kind": "impedance",
+      "values": [
+        51,
+        68
+      ],
+      "result": 85,
+      "unit": "Ω"
+    }
+  },
+  {
+    "id": "EWC-4-018",
+    "subject": "회로이론 및 제어공학",
+    "topic": "교류·직렬 RL",
+    "question": "저항 54 Ω과 유도 리액턴스 72 Ω이 직렬 연결된 교류 회로이다. 임피던스 크기는?",
+    "choices": [
+      "270 Ω",
+      "360 Ω",
+      "90 Ω",
+      "180 Ω"
+    ],
+    "answer": 3,
+    "explanation": "직렬 RL 회로에서 Z=R+jX이므로 크기는 √(R²+X²)이다. |Z|=√(54²+72²)=90 Ω. 저항과 리액턴스는 위상이 직교하므로 크기를 단순 합산하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F4",
+    "calculation": {
+      "kind": "impedance",
+      "values": [
+        54,
+        72
+      ],
+      "result": 90,
+      "unit": "Ω"
+    }
+  },
+  {
+    "id": "EWC-4-019",
+    "subject": "회로이론 및 제어공학",
+    "topic": "교류·직렬 RL",
+    "question": "저항 57 Ω과 유도 리액턴스 76 Ω이 직렬 연결된 교류 회로이다. 임피던스 크기는?",
+    "choices": [
+      "380 Ω",
+      "95 Ω",
+      "190 Ω",
+      "285 Ω"
+    ],
+    "answer": 2,
+    "explanation": "직렬 RL 회로에서 Z=R+jX이므로 크기는 √(R²+X²)이다. |Z|=√(57²+76²)=95 Ω. 저항과 리액턴스는 위상이 직교하므로 크기를 단순 합산하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F4",
+    "calculation": {
+      "kind": "impedance",
+      "values": [
+        57,
+        76
+      ],
+      "result": 95,
+      "unit": "Ω"
+    }
+  },
+  {
+    "id": "EWC-4-020",
+    "subject": "회로이론 및 제어공학",
+    "topic": "교류·직렬 RL",
+    "question": "저항 60 Ω과 유도 리액턴스 80 Ω이 직렬 연결된 교류 회로이다. 임피던스 크기는?",
+    "choices": [
+      "100 Ω",
+      "200 Ω",
+      "300 Ω",
+      "400 Ω"
+    ],
+    "answer": 1,
+    "explanation": "직렬 RL 회로에서 Z=R+jX이므로 크기는 √(R²+X²)이다. |Z|=√(60²+80²)=100 Ω. 저항과 리액턴스는 위상이 직교하므로 크기를 단순 합산하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F4",
+    "calculation": {
+      "kind": "impedance",
+      "values": [
+        60,
+        80
+      ],
+      "result": 100,
+      "unit": "Ω"
+    }
+  },
+  {
+    "id": "EWC-5-001",
+    "subject": "전기설비기술기준",
+    "topic": "보호도체·연속성 측정 기초",
+    "question": "보호도체 연속성의 기초 계산 연습이다. 시험 전류 2 A에서 도체 저항이 10 mΩ일 때 전압 강하는? (적합 여부나 법정 시험 전류를 묻는 문제가 아니다.)",
+    "choices": [
+      "40 mV",
+      "60 mV",
+      "80 mV",
+      "20 mV"
+    ],
+    "answer": 4,
+    "explanation": "옴의 법칙 U=IR을 적용한다. 10 mΩ=0.01 Ω이므로 U=2×0.01=0.02 V=20 mV. 이 계산만으로 보호도체의 법규 적합 판정을 할 수 없으며 법정 한계값을 제시하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F5",
+    "calculation": {
+      "kind": "protectiveDrop",
+      "values": [
+        2,
+        10
+      ],
+      "result": 20,
+      "unit": "mV"
+    }
+  },
+  {
+    "id": "EWC-5-002",
+    "subject": "전기설비기술기준",
+    "topic": "보호도체·연속성 측정 기초",
+    "question": "보호도체 연속성의 기초 계산 연습이다. 시험 전류 4 A에서 도체 저항이 10 mΩ일 때 전압 강하는? (적합 여부나 법정 시험 전류를 묻는 문제가 아니다.)",
+    "choices": [
+      "120 mV",
+      "160 mV",
+      "40 mV",
+      "80 mV"
+    ],
+    "answer": 3,
+    "explanation": "옴의 법칙 U=IR을 적용한다. 10 mΩ=0.01 Ω이므로 U=4×0.01=0.04 V=40 mV. 이 계산만으로 보호도체의 법규 적합 판정을 할 수 없으며 법정 한계값을 제시하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F5",
+    "calculation": {
+      "kind": "protectiveDrop",
+      "values": [
+        4,
+        10
+      ],
+      "result": 40,
+      "unit": "mV"
+    }
+  },
+  {
+    "id": "EWC-5-003",
+    "subject": "전기설비기술기준",
+    "topic": "보호도체·연속성 측정 기초",
+    "question": "보호도체 연속성의 기초 계산 연습이다. 시험 전류 6 A에서 도체 저항이 10 mΩ일 때 전압 강하는? (적합 여부나 법정 시험 전류를 묻는 문제가 아니다.)",
+    "choices": [
+      "240 mV",
+      "60 mV",
+      "120 mV",
+      "180 mV"
+    ],
+    "answer": 2,
+    "explanation": "옴의 법칙 U=IR을 적용한다. 10 mΩ=0.01 Ω이므로 U=6×0.01=0.06 V=60 mV. 이 계산만으로 보호도체의 법규 적합 판정을 할 수 없으며 법정 한계값을 제시하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F5",
+    "calculation": {
+      "kind": "protectiveDrop",
+      "values": [
+        6,
+        10
+      ],
+      "result": 60,
+      "unit": "mV"
+    }
+  },
+  {
+    "id": "EWC-5-004",
+    "subject": "전기설비기술기준",
+    "topic": "보호도체·연속성 측정 기초",
+    "question": "보호도체 연속성의 기초 계산 연습이다. 시험 전류 8 A에서 도체 저항이 10 mΩ일 때 전압 강하는? (적합 여부나 법정 시험 전류를 묻는 문제가 아니다.)",
+    "choices": [
+      "80 mV",
+      "160 mV",
+      "240 mV",
+      "320 mV"
+    ],
+    "answer": 1,
+    "explanation": "옴의 법칙 U=IR을 적용한다. 10 mΩ=0.01 Ω이므로 U=8×0.01=0.08 V=80 mV. 이 계산만으로 보호도체의 법규 적합 판정을 할 수 없으며 법정 한계값을 제시하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F5",
+    "calculation": {
+      "kind": "protectiveDrop",
+      "values": [
+        8,
+        10
+      ],
+      "result": 80,
+      "unit": "mV"
+    }
+  },
+  {
+    "id": "EWC-5-005",
+    "subject": "전기설비기술기준",
+    "topic": "보호도체·연속성 측정 기초",
+    "question": "보호도체 연속성의 기초 계산 연습이다. 시험 전류 10 A에서 도체 저항이 10 mΩ일 때 전압 강하는? (적합 여부나 법정 시험 전류를 묻는 문제가 아니다.)",
+    "choices": [
+      "200 mV",
+      "300 mV",
+      "400 mV",
+      "100 mV"
+    ],
+    "answer": 4,
+    "explanation": "옴의 법칙 U=IR을 적용한다. 10 mΩ=0.01 Ω이므로 U=10×0.01=0.1 V=100 mV. 이 계산만으로 보호도체의 법규 적합 판정을 할 수 없으며 법정 한계값을 제시하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F5",
+    "calculation": {
+      "kind": "protectiveDrop",
+      "values": [
+        10,
+        10
+      ],
+      "result": 100,
+      "unit": "mV"
+    }
+  },
+  {
+    "id": "EWC-5-006",
+    "subject": "전기설비기술기준",
+    "topic": "보호도체·연속성 측정 기초",
+    "question": "보호도체 연속성의 기초 계산 연습이다. 시험 전류 12 A에서 도체 저항이 10 mΩ일 때 전압 강하는? (적합 여부나 법정 시험 전류를 묻는 문제가 아니다.)",
+    "choices": [
+      "360 mV",
+      "480 mV",
+      "120 mV",
+      "240 mV"
+    ],
+    "answer": 3,
+    "explanation": "옴의 법칙 U=IR을 적용한다. 10 mΩ=0.01 Ω이므로 U=12×0.01=0.12 V=120 mV. 이 계산만으로 보호도체의 법규 적합 판정을 할 수 없으며 법정 한계값을 제시하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F5",
+    "calculation": {
+      "kind": "protectiveDrop",
+      "values": [
+        12,
+        10
+      ],
+      "result": 120,
+      "unit": "mV"
+    }
+  },
+  {
+    "id": "EWC-5-007",
+    "subject": "전기설비기술기준",
+    "topic": "보호도체·연속성 측정 기초",
+    "question": "보호도체 연속성의 기초 계산 연습이다. 시험 전류 14 A에서 도체 저항이 10 mΩ일 때 전압 강하는? (적합 여부나 법정 시험 전류를 묻는 문제가 아니다.)",
+    "choices": [
+      "560 mV",
+      "140 mV",
+      "280 mV",
+      "420 mV"
+    ],
+    "answer": 2,
+    "explanation": "옴의 법칙 U=IR을 적용한다. 10 mΩ=0.01 Ω이므로 U=14×0.01=0.14 V=140 mV. 이 계산만으로 보호도체의 법규 적합 판정을 할 수 없으며 법정 한계값을 제시하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F5",
+    "calculation": {
+      "kind": "protectiveDrop",
+      "values": [
+        14,
+        10
+      ],
+      "result": 140,
+      "unit": "mV"
+    }
+  },
+  {
+    "id": "EWC-5-008",
+    "subject": "전기설비기술기준",
+    "topic": "보호도체·연속성 측정 기초",
+    "question": "보호도체 연속성의 기초 계산 연습이다. 시험 전류 16 A에서 도체 저항이 10 mΩ일 때 전압 강하는? (적합 여부나 법정 시험 전류를 묻는 문제가 아니다.)",
+    "choices": [
+      "160 mV",
+      "320 mV",
+      "480 mV",
+      "640 mV"
+    ],
+    "answer": 1,
+    "explanation": "옴의 법칙 U=IR을 적용한다. 10 mΩ=0.01 Ω이므로 U=16×0.01=0.16 V=160 mV. 이 계산만으로 보호도체의 법규 적합 판정을 할 수 없으며 법정 한계값을 제시하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F5",
+    "calculation": {
+      "kind": "protectiveDrop",
+      "values": [
+        16,
+        10
+      ],
+      "result": 160,
+      "unit": "mV"
+    }
+  },
+  {
+    "id": "EWC-5-009",
+    "subject": "전기설비기술기준",
+    "topic": "보호도체·연속성 측정 기초",
+    "question": "보호도체 연속성의 기초 계산 연습이다. 시험 전류 18 A에서 도체 저항이 10 mΩ일 때 전압 강하는? (적합 여부나 법정 시험 전류를 묻는 문제가 아니다.)",
+    "choices": [
+      "360 mV",
+      "540 mV",
+      "720 mV",
+      "180 mV"
+    ],
+    "answer": 4,
+    "explanation": "옴의 법칙 U=IR을 적용한다. 10 mΩ=0.01 Ω이므로 U=18×0.01=0.18 V=180 mV. 이 계산만으로 보호도체의 법규 적합 판정을 할 수 없으며 법정 한계값을 제시하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F5",
+    "calculation": {
+      "kind": "protectiveDrop",
+      "values": [
+        18,
+        10
+      ],
+      "result": 180,
+      "unit": "mV"
+    }
+  },
+  {
+    "id": "EWC-5-010",
+    "subject": "전기설비기술기준",
+    "topic": "보호도체·연속성 측정 기초",
+    "question": "보호도체 연속성의 기초 계산 연습이다. 시험 전류 20 A에서 도체 저항이 10 mΩ일 때 전압 강하는? (적합 여부나 법정 시험 전류를 묻는 문제가 아니다.)",
+    "choices": [
+      "600 mV",
+      "800 mV",
+      "200 mV",
+      "400 mV"
+    ],
+    "answer": 3,
+    "explanation": "옴의 법칙 U=IR을 적용한다. 10 mΩ=0.01 Ω이므로 U=20×0.01=0.2 V=200 mV. 이 계산만으로 보호도체의 법규 적합 판정을 할 수 없으며 법정 한계값을 제시하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F5",
+    "calculation": {
+      "kind": "protectiveDrop",
+      "values": [
+        20,
+        10
+      ],
+      "result": 200,
+      "unit": "mV"
+    }
+  },
+  {
+    "id": "EWC-5-011",
+    "subject": "전기설비기술기준",
+    "topic": "보호도체·연속성 측정 기초",
+    "question": "보호도체 연속성의 기초 계산 연습이다. 시험 전류 22 A에서 도체 저항이 10 mΩ일 때 전압 강하는? (적합 여부나 법정 시험 전류를 묻는 문제가 아니다.)",
+    "choices": [
+      "880 mV",
+      "220 mV",
+      "440 mV",
+      "660 mV"
+    ],
+    "answer": 2,
+    "explanation": "옴의 법칙 U=IR을 적용한다. 10 mΩ=0.01 Ω이므로 U=22×0.01=0.22 V=220 mV. 이 계산만으로 보호도체의 법규 적합 판정을 할 수 없으며 법정 한계값을 제시하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F5",
+    "calculation": {
+      "kind": "protectiveDrop",
+      "values": [
+        22,
+        10
+      ],
+      "result": 220,
+      "unit": "mV"
+    }
+  },
+  {
+    "id": "EWC-5-012",
+    "subject": "전기설비기술기준",
+    "topic": "보호도체·연속성 측정 기초",
+    "question": "보호도체 연속성의 기초 계산 연습이다. 시험 전류 24 A에서 도체 저항이 10 mΩ일 때 전압 강하는? (적합 여부나 법정 시험 전류를 묻는 문제가 아니다.)",
+    "choices": [
+      "240 mV",
+      "480 mV",
+      "720 mV",
+      "960 mV"
+    ],
+    "answer": 1,
+    "explanation": "옴의 법칙 U=IR을 적용한다. 10 mΩ=0.01 Ω이므로 U=24×0.01=0.24 V=240 mV. 이 계산만으로 보호도체의 법규 적합 판정을 할 수 없으며 법정 한계값을 제시하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F5",
+    "calculation": {
+      "kind": "protectiveDrop",
+      "values": [
+        24,
+        10
+      ],
+      "result": 240,
+      "unit": "mV"
+    }
+  },
+  {
+    "id": "EWC-5-013",
+    "subject": "전기설비기술기준",
+    "topic": "보호도체·연속성 측정 기초",
+    "question": "보호도체 연속성의 기초 계산 연습이다. 시험 전류 26 A에서 도체 저항이 10 mΩ일 때 전압 강하는? (적합 여부나 법정 시험 전류를 묻는 문제가 아니다.)",
+    "choices": [
+      "520 mV",
+      "780 mV",
+      "1040 mV",
+      "260 mV"
+    ],
+    "answer": 4,
+    "explanation": "옴의 법칙 U=IR을 적용한다. 10 mΩ=0.01 Ω이므로 U=26×0.01=0.26 V=260 mV. 이 계산만으로 보호도체의 법규 적합 판정을 할 수 없으며 법정 한계값을 제시하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F5",
+    "calculation": {
+      "kind": "protectiveDrop",
+      "values": [
+        26,
+        10
+      ],
+      "result": 260,
+      "unit": "mV"
+    }
+  },
+  {
+    "id": "EWC-5-014",
+    "subject": "전기설비기술기준",
+    "topic": "보호도체·연속성 측정 기초",
+    "question": "보호도체 연속성의 기초 계산 연습이다. 시험 전류 28 A에서 도체 저항이 10 mΩ일 때 전압 강하는? (적합 여부나 법정 시험 전류를 묻는 문제가 아니다.)",
+    "choices": [
+      "840 mV",
+      "1120 mV",
+      "280 mV",
+      "560 mV"
+    ],
+    "answer": 3,
+    "explanation": "옴의 법칙 U=IR을 적용한다. 10 mΩ=0.01 Ω이므로 U=28×0.01=0.28 V=280 mV. 이 계산만으로 보호도체의 법규 적합 판정을 할 수 없으며 법정 한계값을 제시하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F5",
+    "calculation": {
+      "kind": "protectiveDrop",
+      "values": [
+        28,
+        10
+      ],
+      "result": 280,
+      "unit": "mV"
+    }
+  },
+  {
+    "id": "EWC-5-015",
+    "subject": "전기설비기술기준",
+    "topic": "보호도체·연속성 측정 기초",
+    "question": "보호도체 연속성의 기초 계산 연습이다. 시험 전류 30 A에서 도체 저항이 10 mΩ일 때 전압 강하는? (적합 여부나 법정 시험 전류를 묻는 문제가 아니다.)",
+    "choices": [
+      "1200 mV",
+      "300 mV",
+      "600 mV",
+      "900 mV"
+    ],
+    "answer": 2,
+    "explanation": "옴의 법칙 U=IR을 적용한다. 10 mΩ=0.01 Ω이므로 U=30×0.01=0.3 V=300 mV. 이 계산만으로 보호도체의 법규 적합 판정을 할 수 없으며 법정 한계값을 제시하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F5",
+    "calculation": {
+      "kind": "protectiveDrop",
+      "values": [
+        30,
+        10
+      ],
+      "result": 300,
+      "unit": "mV"
+    }
+  },
+  {
+    "id": "EWC-5-016",
+    "subject": "전기설비기술기준",
+    "topic": "보호도체·연속성 측정 기초",
+    "question": "보호도체 연속성의 기초 계산 연습이다. 시험 전류 32 A에서 도체 저항이 10 mΩ일 때 전압 강하는? (적합 여부나 법정 시험 전류를 묻는 문제가 아니다.)",
+    "choices": [
+      "320 mV",
+      "640 mV",
+      "960 mV",
+      "1280 mV"
+    ],
+    "answer": 1,
+    "explanation": "옴의 법칙 U=IR을 적용한다. 10 mΩ=0.01 Ω이므로 U=32×0.01=0.32 V=320 mV. 이 계산만으로 보호도체의 법규 적합 판정을 할 수 없으며 법정 한계값을 제시하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F5",
+    "calculation": {
+      "kind": "protectiveDrop",
+      "values": [
+        32,
+        10
+      ],
+      "result": 320,
+      "unit": "mV"
+    }
+  },
+  {
+    "id": "EWC-5-017",
+    "subject": "전기설비기술기준",
+    "topic": "보호도체·연속성 측정 기초",
+    "question": "보호도체 연속성의 기초 계산 연습이다. 시험 전류 34 A에서 도체 저항이 10 mΩ일 때 전압 강하는? (적합 여부나 법정 시험 전류를 묻는 문제가 아니다.)",
+    "choices": [
+      "680 mV",
+      "1020 mV",
+      "1360 mV",
+      "340 mV"
+    ],
+    "answer": 4,
+    "explanation": "옴의 법칙 U=IR을 적용한다. 10 mΩ=0.01 Ω이므로 U=34×0.01=0.34 V=340 mV. 이 계산만으로 보호도체의 법규 적합 판정을 할 수 없으며 법정 한계값을 제시하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F5",
+    "calculation": {
+      "kind": "protectiveDrop",
+      "values": [
+        34,
+        10
+      ],
+      "result": 340,
+      "unit": "mV"
+    }
+  },
+  {
+    "id": "EWC-5-018",
+    "subject": "전기설비기술기준",
+    "topic": "보호도체·연속성 측정 기초",
+    "question": "보호도체 연속성의 기초 계산 연습이다. 시험 전류 36 A에서 도체 저항이 10 mΩ일 때 전압 강하는? (적합 여부나 법정 시험 전류를 묻는 문제가 아니다.)",
+    "choices": [
+      "1080 mV",
+      "1440 mV",
+      "360 mV",
+      "720 mV"
+    ],
+    "answer": 3,
+    "explanation": "옴의 법칙 U=IR을 적용한다. 10 mΩ=0.01 Ω이므로 U=36×0.01=0.36 V=360 mV. 이 계산만으로 보호도체의 법규 적합 판정을 할 수 없으며 법정 한계값을 제시하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F5",
+    "calculation": {
+      "kind": "protectiveDrop",
+      "values": [
+        36,
+        10
+      ],
+      "result": 360,
+      "unit": "mV"
+    }
+  },
+  {
+    "id": "EWC-5-019",
+    "subject": "전기설비기술기준",
+    "topic": "보호도체·연속성 측정 기초",
+    "question": "보호도체 연속성의 기초 계산 연습이다. 시험 전류 38 A에서 도체 저항이 10 mΩ일 때 전압 강하는? (적합 여부나 법정 시험 전류를 묻는 문제가 아니다.)",
+    "choices": [
+      "1520 mV",
+      "380 mV",
+      "760 mV",
+      "1140 mV"
+    ],
+    "answer": 2,
+    "explanation": "옴의 법칙 U=IR을 적용한다. 10 mΩ=0.01 Ω이므로 U=38×0.01=0.38 V=380 mV. 이 계산만으로 보호도체의 법규 적합 판정을 할 수 없으며 법정 한계값을 제시하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F5",
+    "calculation": {
+      "kind": "protectiveDrop",
+      "values": [
+        38,
+        10
+      ],
+      "result": 380,
+      "unit": "mV"
+    }
+  },
+  {
+    "id": "EWC-5-020",
+    "subject": "전기설비기술기준",
+    "topic": "보호도체·연속성 측정 기초",
+    "question": "보호도체 연속성의 기초 계산 연습이다. 시험 전류 40 A에서 도체 저항이 10 mΩ일 때 전압 강하는? (적합 여부나 법정 시험 전류를 묻는 문제가 아니다.)",
+    "choices": [
+      "400 mV",
+      "800 mV",
+      "1200 mV",
+      "1600 mV"
+    ],
+    "answer": 1,
+    "explanation": "옴의 법칙 U=IR을 적용한다. 10 mΩ=0.01 Ω이므로 U=40×0.01=0.4 V=400 mV. 이 계산만으로 보호도체의 법규 적합 판정을 할 수 없으며 법정 한계값을 제시하지 않는다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT",
+    "verificationStatus": "reviewed",
+    "reviewNote": "AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시",
+    "family": "EWC-F5",
+    "calculation": {
+      "kind": "protectiveDrop",
+      "values": [
+        40,
+        10
+      ],
+      "result": 400,
+      "unit": "mV"
+    }
+  }
+]
