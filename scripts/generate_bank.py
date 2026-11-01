@@ -29,6 +29,9 @@ for k,subject in enumerate(subjects):
   choices=[f'{r} {unit}',f'{r*2} {unit}',f'{r*3} {unit}',f'{r*4} {unit}'];rotation=n%4
   choices=choices[rotation:]+choices[:rotation]
   bank.append(dict(id=f'EWC-{k+1}-{n:03}',subject=subject,topic=topic,question=text,choices=choices,answer=choices.index(f'{r} {unit}')+1,explanation=explanation,difficulty='하',year=None,session=None,type='original',sourceUrl='https://github.com/YunSangYeong/Engineer-Electrical-Work-CBT',verificationStatus='reviewed',reviewNote='AI 일반 전기 지식으로 신규 작성. 템플릿 조건·단위·해설을 내부 검토하고 독립 역산 테스트 수행. 외부 자료·공식 출제기준 대조 및 전문가 검수 미실시. 저장소는 작성 위치이며 외부 정답 증빙이 아님. 자체 제작 계산 조건 변형.',version='main',rights='자체 제작 · CC BY 4.0 · Engineer-Electrical-Work-CBT contributors 표시',family=f'EWC-F{k+1}',calculation=dict(kind=kind,values=v,result=r,unit=unit)))
+from expanded_bank import additional_questions
+bank.extend(additional_questions(subjects))
+assert len(bank) == 1000
 (ROOT/'src/data/questions-main.json').write_text(json.dumps(bank,ensure_ascii=False,indent=2)+'\n')
 example={**bank[0],'id':'LOCAL-SAMPLE-001','question':bank[0]['question']+' [등록 양식 예제]','verificationStatus':'pending','reviewNote':'실제 사용 전 출처·권한·정답 확인 필요'}
 (ROOT/'public/templates/questions.json').write_text(json.dumps([example],ensure_ascii=False,indent=2)+'\n')
@@ -36,4 +39,4 @@ row={k:v for k,v in example.items() if k not in ['choices','family','calculation
 for i,c in enumerate(example['choices'],1):row[f'choice{i}']=c
 with (ROOT/'public/templates/questions.csv').open('w',newline='') as f:
  w=csv.DictWriter(f,fieldnames=list(row),lineterminator="\n");w.writeheader();w.writerow(row)
-print(f'{len(bank)} exercises, 5 families, 20 conditions each; target shortfall {1000-len(bank)}')
+print(f'{len(bank)} exercises, 50 families, 20 conditions each; target shortfall {1000-len(bank)}')
